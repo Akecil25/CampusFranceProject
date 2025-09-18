@@ -1,0 +1,105 @@
+﻿[
+  {
+    "Email": "monadresse@domaine.com",
+    "MotDePasse": "Azerty123!@#",
+    "ConfirmationMotDePasse": "Azerty123!@#",
+    "Civilite": "Mr",
+    "Nom": "Dupont",
+    "Prenom": "Jean",
+    "PaysResidence": "France",
+    "PaysNationalite": "France",
+    "CodePostal": "75001",
+    "Ville": "Paris",
+    "Telephone": "+33123456789",
+    "Statut": "Etudiants",
+    "Domaineetude": "Chimie",
+    "Niveauetude": "Licence 1"
+  },
+
+  {
+    "Email": "exemple@correo.es",
+    "MotDePasse": "SecurePwd!2024",
+    "ConfirmationMotDePasse": "SecurePwd!2024",
+    "Civilite": "Mme", 
+    "Nom": "García",
+    "Prenom": "Maria",
+    "PaysResidence": "Espagne",
+    "PaysNationalite": "Espagne",
+    "CodePostal": "28001",
+    "Ville": "Madrid",
+    "Telephone": "+34911223344",
+    "Statut": "Etudiants",
+    "Domaineetude": "Chimie", 
+    "Niveauetude": "Licence 2" 
+  },
+
+  {
+    "Email": "professeur@example.it",
+    "MotDePasse": "It@liA2025Pass!",
+    "ConfirmationMotDePasse": "It@liA2025Pass!",
+    "Civilite": "Mr", 
+    "Nom": "Rossi",
+    "Prenom": "Luca",
+    "PaysResidence": "Italie",
+    "PaysNationalite": "Italie",
+    "CodePostal": "00100",
+    "Ville": "Rome",
+    "Telephone": "+390612345678",
+    "Statut": "Chercheurs", 
+    "Domaineetude": "Droit", 
+    "Niveauetude": "Licence 2" 
+  },
+  {
+    "Email": "professeur@example.it",
+    "MotDePasse": "It@liA2025Pass!",
+    "ConfirmationMotDePasse": "It@liA2025Pass!",
+    "Civilite": "Mr", 
+    "Nom": "Havertz",
+    "Prenom": "Kai",
+    "PaysResidence": "Italie",
+    "PaysNationalite": "Italie",
+    "CodePostal": "00100",
+    "Ville": "Rome",
+    "Telephone": "+390612345678",
+    "Statut": "Chercheurs", 
+    "Domaineetude": "Sport", 
+    "Niveauetude": "Licence 2"  
+  },
+
+  {
+    "Email": "monadresse@domaine.com",
+    "MotDePasse": "Azerty123!@#",
+    "ConfirmationMotDePasse": "Azerty123!@#",
+    "Civilite": "Mr", 
+    "Nom": "Marmoush",
+    "Prenom": "Jean",
+    "PaysResidence": "France",
+    "PaysNationalite": "France",
+    "CodePostal": "75001",
+    "Ville": "Paris",
+    "Telephone": "+33123456789",
+    "Statut": "Institutionnel", 
+    "Fonction": "Data Analyst",
+    "TypeOrganisme": "Entreprise", 
+    "NomOrganisme": "Orange"
+  },
+
+
+  {
+    "Email": "monadresse@domaine.com",
+    "MotDePasse": "Azerty123!@#",
+    "ConfirmationMotDePasse": "Azerty123!@#",
+    "Civilite": "Mr", 
+    "Nom": "Salah",
+    "Prenom": "Jean",
+    "PaysResidence": "France",
+    "PaysNationalite": "France",
+    "CodePostal": "75001",
+    "Ville": "Paris",
+    "Telephone": "+33123456789",
+    "Statut": "Institutionnel", 
+    "Fonction": " QA ",
+    "TypeOrganisme": "Entreprise", 
+    "NomOrganisme": "SFR"
+  }
+]
