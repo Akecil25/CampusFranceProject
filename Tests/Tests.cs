@@ -256,8 +256,10 @@ namespace CampusProject.Tests
 
             // J’accepte que mes données soient traitées
             js.ExecuteScript("arguments[0].scrollIntoView({block: 'center'});", driver.FindElement(By.XPath("//*[@id=\"edit-field-accepte-communications-wrapper\"]/div/label")));
-
             driver.FindElement(By.XPath("//*[@id=\"edit-field-accepte-communications-wrapper\"]/div/label")).Click();
+
+            Assert.AreEqual("J’accepte que mes données soient traitées pour recevoir des communications adaptées, de la part de Campus France.", driver.FindElement(By.XPath("//*[@id=\"edit-field-accepte-communications-wrapper\"]/div/label")).Text); 
+                
 
 
             // Envoyer
@@ -265,9 +267,8 @@ namespace CampusProject.Tests
 
             driver.FindElement(By.Id("edit-submit")).Click();
 
-            Assert.AreNotEqual("Creation reussie", driver.FindElement(By.XPath("/html/body/div[2]/div[2]/main/div[2]/div/div[2]/div/div/ul/li[1]")));
 
-            Assert.AreNotEqual("Creation reussie", driver.FindElement(By.XPath("/html/body/div[2]/div[2]/main/div[2]/div/div[2]/div/div/ul/li[1]")));
+           
 
 
 
